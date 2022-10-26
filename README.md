@@ -1,6 +1,6 @@
 # Tutorial: How To Write a Reconciler Using K8s Controller-Runtime!
 
-[![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/#https://github.com/scottrigby/how-to-write-a-reconciler-using-k8s-controller-runtime)
+[![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/#https://github.com/kfox1111/how-to-write-a-reconciler-using-k8s-controller-runtime)
 
 Git repo for talk at KubeCon NA 2022. Scott Rigby, Somtochi Onyekwere, Niki Manoledaki & Soulé Ba, Weaveworks; Amine Hilaly, Amazon Web Services. <https://sched.co/182Hg>
 
